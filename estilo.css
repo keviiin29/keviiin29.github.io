@@ -1,0 +1,45 @@
+html,body {
+	height:50%;
+}
+
+header {
+	display:block;
+	background:white;
+
+}
+h1,h3 {
+	text-align: center;
+}
+section {
+	width: 79%;
+	background: #ccc;
+	float:left;
+	overflow: auto;
+	padding-bottom: 60px;
+	padding-top:30px;
+	text-align: center;
+}
+
+aside {
+	float:right;
+	width: 19%;
+	text-align: center;
+	height: 100%;
+	background: white;
+}
+footer {
+	position: relative;
+	height: 40px; 
+	clear: both;
+	background: floralwhite;
+	text-align: center;
+	color: white;
+}
+
+p {
+	font-family: candara;
+}
+
+h1{
+	
+}

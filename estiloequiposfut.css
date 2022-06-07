@@ -1,0 +1,72 @@
+html,body {
+	height:50%;
+}
+
+header {
+	display:block;
+	background:white;
+
+}
+h4 {
+	text-align: center;
+	font-family: arial;
+}
+section {
+	width: 79%;
+	background: #ccc;
+	float:left;
+	overflow: auto;
+	padding-bottom: 60px;
+	padding-top:30px;
+
+}
+
+aside {
+	float:right;
+	width: 19%;
+	text-align: center;
+	height: 100%;
+	background: white;
+}
+footer {
+	position: relative;
+	height: 40px; 
+	clear: both;
+	background: floralwhite;
+	text-align: center;
+	color: white;
+}
+
+p {
+	font-family: candara;
+	text-align: center;
+}
+
+table {
+  table-layout: fixed;
+  width: 90%;
+  border-collapse: collapse;
+  border: 3px gray;
+  text-align: center;
+}
+
+thead th:nth-child(1) {
+  width: 30%;
+}
+
+thead th:nth-child(2) {
+  width: 20%;
+}
+
+thead th:nth-child(3) {
+  width: 15%;
+}
+
+thead th:nth-child(4) {
+  width: 35%;
+}
+
+th, td {
+  padding: 20px;
+}
+}
